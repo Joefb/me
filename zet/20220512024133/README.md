@@ -12,8 +12,8 @@ details about their network.
 
 This could lead to security issues. I was not surprised the previous
 owner did not reset the device but I was very surprised the thrift store
-who is a major chain did not a policy in place to reset the device while 
-testing it.
+who is a major chain did not have a policy in place to reset the device 
+while testing it.
 
 This peaked my curiosity about other pre owned IoT devices. I have
 picked up quite a few more and will do further testing.
