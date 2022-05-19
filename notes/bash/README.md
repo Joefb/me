@@ -27,6 +27,7 @@ Commonly used cp options:</br>
 * `-i` Prompt before overwriting files
 * `-u` Only copy files that dont exist or are newer
 * `-v` Verbose mode
+* `cp dir/*` Will copy all files in dir
 
 Commonly used mv options:</br>
 * `-i` Prompt before overwriting files
@@ -39,8 +40,27 @@ Commonly used rm options:</br>
 * `-v` Verbose mode
 * `-f` Ignore nonexistent files and do not prompt
 
-`cp dir1/*` Will copy all files in dir1
-
 *Useful tip:* When using rm with wildcards, test the wildcard first with
 ls to see what files will be deleted.
+
+---
+
+### Man Page Organization
+The man pages are organized in sections.
+
+*Section* - *Contents*
+* 1 - User commands
+* 2 - Programming interfaces for kernel system calls
+* 3 - Programming interfaces to the C library
+* 4 - Special files such as device nodes and drivers
+* 5 - File formats
+* 6 - Games and amusements such as screen savers 
+* 7 - Miscellaneous
+* 8 - System administration commands
+
+*Searching the man pages*
+* `man section search_term` - To search a section in the man pages
+* `apropos search_term` - Search the all man pages for a term
+
+### Alias in Linux
 
