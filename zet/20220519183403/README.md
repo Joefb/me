@@ -1,6 +1,6 @@
-# Understanding git 
+# Understanding git
 
-## git init - git add - git commit 
+## git init - git add - git commit
 
 * git init</br>
 When I git init the directory is not the repo. The directory is actually
@@ -10,8 +10,8 @@ workspace of the repo.
 
 * git add</br>
 When I git add, git takes a snapshot of the file or files and stores
-them in the index that is located in the .git repo. The index is 
-temporary staging area. After I modify files and I git add them, 
+them in the index that is located in the .git repo. The index is
+temporary staging area. After I modify files and I git add them,
 their updated contents is added to the index.
 
 * git commit</br>
